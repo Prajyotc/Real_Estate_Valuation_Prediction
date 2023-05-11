@@ -1,4 +1,4 @@
-# Real-Estate-Valuation-Prediction
+# Real Estate Valuation Prediction
 
 ## **Dataset**:
 •	Dataset was taken from Kaggle.
